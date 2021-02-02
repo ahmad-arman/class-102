@@ -2,8 +2,8 @@
 # table read 
 name | link
 ------------ | -------------
-|  read 1 | [google](learn) |
-|  read 2 | [google](learn) |
+|  read 1 | [lab102](learn.md) |
+|  read 2 | [lab102](learn.md) |
 
 
 
